@@ -41,6 +41,14 @@
       height: 275px;
       margin: 0 auto 2rem;
     }
+
+    .profilepicture{
+      border-radius: 50%;
+    }
+
+    .profilepicture{
+      border-radius: 50%;
+    }
     .about-containers {
       margin-top: 0;
     }
@@ -89,6 +97,10 @@
       width: auto;
       height: 46vw;
       justify-content: center;
+    }
+
+    .profilepicture{
+      border-radius: 50%;
     }
     .section__text__p2 {
       font-size: 1.25rem;
